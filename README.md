@@ -1,6 +1,10 @@
 # Multi-Field Portfolio 🚀
 
-Welcome to the **Multi-Field Portfolio** repository! This portfolio is designed for professionals across various fields, offering a sleek and customizable way to showcase skills, projects, and achievements.  
+Welcome to the **Multi-Field Portfolio** repository! This portfolio is designed for professionals across various fields, offering a sleek and customizable way to showcase skills, projects, and achievements. 
+
+## Screenshots
+
+[![Untitled-design.png](https://i.postimg.cc/LsDTnzcY/Untitled-design.png)](https://postimg.cc/kVV8HtXq)
 
 ## 🔒 Repository Access  
 This repository is private, and the code is not publicly available. If you are interested in using or exploring this portfolio, follow the steps below to gain access.  
