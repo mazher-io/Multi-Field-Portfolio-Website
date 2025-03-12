@@ -4,7 +4,7 @@ Welcome to the **Multi-Field Portfolio** repository! This portfolio is designed 
 
 ## Screenshots
 
-[![Untitled-design-1.png](https://i.postimg.cc/3xt2Hhbm/Untitled-design-1.png)](https://postimg.cc/75T5gF4Z)
+[![design.png](https://i.postimg.cc/vBh45tF9/design.png)](https://postimg.cc/njsVJ7Lc)
 
 ## 🔒 Repository Access  
 This repository is private, and the code is not publicly available. If you are interested in using or exploring this portfolio, follow the steps below to gain access.  
